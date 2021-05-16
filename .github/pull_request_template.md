@@ -16,7 +16,7 @@
 <!---
     Si aplica, agregar lista de issues relacionados.
 -->
-1. holamugar/modulos-de-teceros#<issue_number>: Título del Issue
+1. holamugar/modulos-de-terceros#<issue_number>: Título del Issue
 2. ...
 
 ### Escenarios de testing manual (si fuera aplicable)
