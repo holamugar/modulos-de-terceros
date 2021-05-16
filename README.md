@@ -1,58 +1,19 @@
-# Repository tasks
+# Módulos de terceros para Magento2
 
-After creating the repository with the template, you must:
+La siguiente es una lista de módulos que ayuden adaptar las tiendas a las necesidades y servicios de Argentina.
 
-* Edit the file .github / pull_request_template.md and change holamugar / module-module-name with the correct module name.
-* Edit README.md and change all references to ModuleName by the correct module name.
-* Remove this block from README.md, from the beginning of the document to the next block H1.
- 
+## Contribuciones
 
-# Mugar_ModuleName for Magento2
+Son bienvenidas las sugerencias de cualquier módulo que provea funcionalidades de logística, pagos y otros servicios locales.
 
-General description of the module.
+### ¿Cómo crear un PR?
 
-## Installation
+1. Forkar repositorio
+2. Crear un rama en tu repositorio (git checkout -b my-new-feature)
+3. Hacer commit de tus cambios (git commit -am 'Add some feature')
+4. Enviar cambios de la rama a tu fork (git push origin my-new-feature)
+5. Crear un nuevo Pull Request
 
-Use [composer](https://getcomposer.org/) to install Mugar_ModuleName.
-
-```
-composer require mugar/module-name-using-hyphen-case
-```
-
-Then you'll need to activate the module.
-
-```
-bin/magento module:enable Mugar_ModuleName
-bin/magento setup:upgrade
-bin/magento cache:clean
-```
-
-## Uninstall
-
-```
-bin/magento module:uninstall Mugar_ModuleName
-```
-
-If you used Composer for installation Magento will remove the files and database information. 
-
-## Support
-
-You can request to be added to [Slack](https://mugar.slack.com/).
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-### How to create a PR
-
-1. Fork it
-2. Create your feature branch (git checkout -b my-new-feature)
-3. Commit your changes (git commit -am 'Add some feature')
-4. Push to the branch (git push origin my-new-feature)
-5. Create new Pull Request
-
-## License
+## Licencia
 
 [MIT](https://choosealicense.com/licenses/mit/)
