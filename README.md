@@ -2,6 +2,19 @@
 
 La siguiente es una lista de módulos que ayuden adaptar las tiendas a las necesidades y servicios de Argentina.
 
+## Contenido
+
+* [Logística](#logistica)
+* [Pagos](#pagos)
+
+### Logistica
+
+* OCA - https://github.com/gento-arg/magento-oca
+
+### Pagos
+
+* MercadoPago - https://github.com/mercadopago/cart-magento2
+
 ## Contribuciones
 
 Son bienvenidas las sugerencias de cualquier módulo que provea funcionalidades de logística, pagos y otros servicios locales.
