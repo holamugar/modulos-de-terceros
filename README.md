@@ -2,6 +2,8 @@
 
 La siguiente es una lista de módulos que ayuden adaptar las tiendas a las necesidades y servicios de Argentina.
 
+Para mantenerte actualizado sobre los cambios a esta lista, podés forkear el repositorio o suscribirte a nuestro [Newsletter](https://mugar.us18.list-manage.com/subscribe?u=33b580369adec0c816a4b20e7&id=db5a7b9eff) para que te avisemos todos los meses.
+
 ## Contenido
 
 * [Logística](#logistica)
@@ -9,7 +11,9 @@ La siguiente es una lista de módulos que ayuden adaptar las tiendas a las neces
 
 ### Logistica
 
+* Andreani - https://github.com/andreani-publico/magento-2.3
 * OCA - https://github.com/gento-arg/magento-oca
+* PickIt - https://bitbucket.org/pickit_it/magento-2/src/master/
 
 ### Pagos
 
