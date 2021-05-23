@@ -15,10 +15,15 @@ Para mantenerte actualizado sobre los cambios a esta lista, podés forkear el re
 * Moova - https://github.com/moovaio/ecommerce-Magento-2
 * OCA - https://github.com/gento-arg/magento-oca
 * PickIt - https://bitbucket.org/pickit_it/magento-2/src/master/
+* Treggo - https://github.com/treggo/treggo-magento
+
 
 ### Pagos
 
 * MercadoPago - https://github.com/mercadopago/cart-magento2
+* Mobbex - https://github.com/mobbexco/magento-2
+* TodoPago - https://github.com/TodoPago/Plugin-Magento2
+
 
 ## Contribuciones
 
