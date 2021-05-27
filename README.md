@@ -12,6 +12,7 @@ Para mantenerte actualizado sobre los cambios a esta lista, podés forkear el re
 ### Logistica
 
 * Andreani - https://github.com/andreani-publico/magento-2.3
+* Hop - https://github.com/covedisa-sa/Hop-Magento2
 * Moova - https://github.com/moovaio/ecommerce-Magento-2
 * OCA - https://github.com/gento-arg/magento-oca
 * PickIt - https://bitbucket.org/pickit_it/magento-2/src/master/
