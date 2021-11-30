@@ -26,6 +26,11 @@ Para mantenerte actualizado sobre los cambios a esta lista, podés forkear el re
 * TodoPago - https://github.com/TodoPago/Plugin-Magento2
 
 
+### ERP
+
+* TangoTiendas - https://github.com/gento-arg/magento-tango-tiendas
+
+
 ## Contribuciones
 
 Son bienvenidas las sugerencias de cualquier módulo que provea funcionalidades de logística, pagos y otros servicios locales.
