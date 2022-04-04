@@ -26,6 +26,7 @@ Para mantenerte actualizado sobre los cambios a esta lista, podés forkear el re
 * TodoPago - https://github.com/TodoPago/Plugin-Magento2
 * Uala Bis - https://github.com/federicosoich/module-uala-bis-payment
 * Go Cuotas - https://github.com/federicosoich/module-go-cuotas-payment
+* Wibond - https://github.com/itwibond/module-wibond
 
 
 ### ERP
