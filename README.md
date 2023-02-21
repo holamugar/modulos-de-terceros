@@ -33,6 +33,10 @@ Para mantenerte actualizado sobre los cambios a esta lista, podés forkear el re
 
 * TangoTiendas - https://github.com/gento-arg/magento-tango-tiendas
 
+### Inventario
+
+* Stock Reservation Status - https://github.com/gento-arg/magento-stock-reservation-status
+
 
 ## Contribuciones
 
