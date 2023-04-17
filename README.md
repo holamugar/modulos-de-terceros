@@ -24,7 +24,7 @@ Para mantenerte actualizado sobre los cambios a esta lista, podés forkear el re
 * MercadoPago - https://github.com/mercadopago/cart-magento2
 * Mobbex - https://github.com/mobbexco/magento-2
 * TodoPago - https://github.com/TodoPago/Plugin-Magento2
-* Uala Bis - https://github.com/federicosoich/module-uala-bis-payment
+* Uala Bis - https://github.com/Uala-Developers/ualabis-magento
 * Go Cuotas - https://github.com/federicosoich/module-go-cuotas-payment
 * Wibond - https://github.com/itwibond/module-wibond
 
