@@ -21,13 +21,12 @@ Para mantenerte actualizado sobre los cambios a esta lista, podés forkear el re
 
 ### Pagos
 
-* MercadoPago - https://github.com/mercadopago/cart-magento2
-* Mobbex - https://github.com/mobbexco/magento-2
-* TodoPago - https://github.com/TodoPago/Plugin-Magento2
-* Uala Bis - https://github.com/Uala-Developers/ualabis-magento
+* Go Cuotas (m2.4.x) - https://github.com/MageRocket/module-gocuotas
 * Go Cuotas - https://github.com/federicosoich/module-go-cuotas-payment
+* MercadoPago - https://github.com/mercadopago/adb-payment
+* Mobbex - https://github.com/mobbexco/magento-2
+* Uala Bis - https://github.com/Uala-Developers/ualabis-magento
 * Wibond - https://github.com/itwibond/module-wibond
-
 
 ### ERP
 
